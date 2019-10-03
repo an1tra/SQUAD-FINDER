@@ -13,7 +13,9 @@ SquadFinder is an application that captures event details and displays them for 
 </ul>
 
 <h2>Rough Breakdown of Tasks:</h2>
-Anitra: User Interface → HTML, CSS, Bootstrap
-Chris: Javascript, UI, and Google API → locations, markers, search box, set activity radius.
-Justin: Javascript, Firebase → authenticating users, matchmaking feature, displaying events, chatbox.
-Lucas: Javascript, Yelp API → park reviews, pictures, hours of operation, links to Yelp.
+<ul>
+  <li>Anitra: User Interface → HTML, CSS, Bootstrap</li>
+  <li>Chris: Javascript, UI, and Google API → locations, markers, search box, set activity radius.</li>
+  <li>Justin: Javascript, Firebase → authenticating users, matchmaking feature, displaying events, chatbox.</li>
+  <li>Lucas: Javascript, Yelp API → park reviews, pictures, hours of operation, links to Yelp.</li>
+</ul>
